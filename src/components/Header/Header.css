@@ -1,0 +1,11 @@
+header{
+    max-height: 30vh;
+    background-color: rgb(188, 214, 214);
+    margin: 0;
+    padding: 16px
+}
+
+h1{
+    font-size: 38px;
+    text-transform: uppercase;
+}

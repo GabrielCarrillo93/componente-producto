@@ -1,0 +1,20 @@
+.encabezado{
+    background-color: azure;
+    width: 100%;
+}
+
+h3{
+    font-size: 25px;
+}
+
+.encabezado>div{
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.precio{
+    font-size: 30px;
+}
